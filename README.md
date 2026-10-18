@@ -122,9 +122,9 @@ adventure-works-sales-dashboard/
 
 **Nikhil Sharma**
 
--   GitHub: [nikhilsharma-ai](https://github.com/nikhilsharma-ai)
+-   GitHub: [nikhilsharma-ai](https://github.com/nikhil-collegex)
 -   LinkedIn:
-    [nikhilsharma-ds](https://www.linkedin.com/in/nikhilsharma-ds/)
+    [collegex](www.linkedin.com/in/collegex)
 
 ------------------------------------------------------------------------
 
