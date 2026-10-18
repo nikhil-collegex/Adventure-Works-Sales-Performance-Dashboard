@@ -7,17 +7,17 @@ monthly trends for Adventure Works.
 ## Dashboard Preview
 
 ![Adventure Works Sales Executive
-Dashboard](images/dashboard-overview.png)
+Dashboard](Images/dashboard-overview.png)
 
 ## Additional Report Views
 
 ### Monthly Revenue Details
 
-![Monthly Revenue Details](images/monthly-revenue-details.png)
+![Monthly Revenue Details](Images/monthly-revenue-details.png)
 
 ### Revenue by Product Category and Country
 
-![Category and Country Revenue](images/category-and-country-revenue.png)
+![Category and Country Revenue](Images/category-and-country-revenue.png)
 
 ## Business Questions
 
